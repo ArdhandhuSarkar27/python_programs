@@ -1,0 +1,11 @@
+str1 = input("Enter any String 1:")
+print(str1)
+len1 = len(str1)
+print(len1)
+str2 = input("Enter any String 2:")
+print(str2)
+len2 = len(str2)
+print(len2)
+finalstr = str1 +" "+str2
+print(finalstr)
+print(len(finalstr))
